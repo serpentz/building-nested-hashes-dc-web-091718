@@ -3,8 +3,9 @@ def third_challenge
    :montague => {
       :patriarch => {
         #your key/value pairs here
-        :age => 53,
-        :name => "Lord Montague"
+      
+        :name => "Lord Montague",
+          :age => 53
         },
       :matriarch => {
         #your key/value pairs here
@@ -28,7 +29,7 @@ def third_challenge
         :attitude => "hot-headed"
       }
       ]
-   }, 
+   },
    :capulet => {
      :patriarch => {
        :name => "Lord Capulet",
